@@ -1,0 +1,14 @@
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\Selenium_Proje.csprojResolveAssemblyReference.cache
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.exe
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.exe
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.dll
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.dll
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.pdb
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.xml
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.pdb
+c:\users\htektas\documents\visual studio 2012\Projects\UnitTestProject2\UnitTestProject2\bin\Debug\WebDriver.Support.xml
